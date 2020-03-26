@@ -10,6 +10,7 @@ public class Intro {
 		System.out.println("Enter Your Name !!");
 		String name = sc.next();
 		System.out.println("Welcome to GitHub !!");
+		System.out.println("hiiii");
 		
 	}
 
